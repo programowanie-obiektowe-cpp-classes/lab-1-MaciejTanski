@@ -1,6 +1,3 @@
-#include <cmath>
-#include <print>
-
 class Wektor2D
 {
   public:
