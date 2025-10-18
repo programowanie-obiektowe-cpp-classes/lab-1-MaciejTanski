@@ -31,5 +31,5 @@ class Wektor2D
 
 };
 
-
+//zmiana dla sprawdzenia nowego gitignore
 
