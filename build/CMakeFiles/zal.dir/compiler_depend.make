@@ -204,7 +204,6 @@ CMakeFiles/zal.dir/test.cpp.obj: D:/CPP_Lab/lab-1-MaciejTanski/test.cpp \
   C:/msys64/ucrt64/include/c++/15.2.0/numeric \
   C:/msys64/ucrt64/include/c++/15.2.0/optional \
   C:/msys64/ucrt64/include/c++/15.2.0/ostream \
-  C:/msys64/ucrt64/include/c++/15.2.0/print \
   C:/msys64/ucrt64/include/c++/15.2.0/pstl/execution_defs.h \
   C:/msys64/ucrt64/include/c++/15.2.0/pstl/glue_algorithm_defs.h \
   C:/msys64/ucrt64/include/c++/15.2.0/pstl/glue_memory_defs.h \
@@ -788,14 +787,6 @@ C:/msys64/ucrt64/include/corecrt.h:
 
 C:/msys64/ucrt64/include/consoleapi3.h:
 
-C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
-
-C:/msys64/ucrt64/include/winerror.h:
-
-C:/msys64/ucrt64/include/psdk_inc/intrin-impl.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h:
-
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_iterator.h:
 
 C:/msys64/ucrt64/include/fileapi.h:
@@ -804,9 +795,19 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/predefined_ops.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/stl_function.h:
 
+C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clwbintrin.h:
+
+C:/msys64/ucrt64/include/winerror.h:
+
+C:/msys64/ucrt64/include/psdk_inc/intrin-impl.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h:
+
 C:/msys64/ucrt64/include/sec_api/wchar_s.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/std_abs.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/sstream.tcc:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets_nonio.tcc:
 
@@ -1399,10 +1400,6 @@ C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/utility.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/ostream:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/sstream.tcc:
-
-C:/msys64/ucrt64/include/c++/15.2.0/print:
 
 C:/msys64/ucrt64/include/c++/15.2.0/pstl/execution_defs.h:
 

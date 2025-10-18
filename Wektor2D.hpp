@@ -16,20 +16,20 @@ class Wektor2D
       double getX() const { return x_; }
       double getY() const { return y_; }  
 
+      Wektor2D operator+( const Wektor2D& w2)
+      {
+          return Wektor2D{x_ + w2.x_, y_ + w2.y_};
+      }
+
+      double operator*( const Wektor2D& w2)
+      {
+          return x_ * w2.x_ + y_ * w2.y_;
+      }
+
   private:
       double x_,y_;
 
 };
 
-
-Wektor2D operator+(const Wektor2D& w1, const Wektor2D& w2)
-{
-    return Wektor2D{w1.getX() + w2.getX(), w1.getY() + w2.getY()};
-}
-
-double operator*(const Wektor2D& w1, const Wektor2D& w2)
-{
-    return w1.getX() * w2.getX() + w1.getY() * w2.getY();
-}
 
 
