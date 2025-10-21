@@ -1,3 +1,0 @@
-D:/CPP_Lab/lab-1-MaciejTanski/build/CMakeFiles/zal.dir
-D:/CPP_Lab/lab-1-MaciejTanski/build/CMakeFiles/edit_cache.dir
-D:/CPP_Lab/lab-1-MaciejTanski/build/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/CPP_Lab/lab-1-MaciejTanski/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\zal.dir\\test.cpp.obj -c D:\\CPP_Lab\\lab-1-MaciejTanski\\test.cpp",
-  "file": "D:/CPP_Lab/lab-1-MaciejTanski/test.cpp",
-  "output": "CMakeFiles/zal.dir/test.cpp.obj"
-}
-]
